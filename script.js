@@ -104,3 +104,8 @@ for (let i = 0; i < listThumbs.length; i++) {
 		}
 	)
 }
+
+
+
+
+
